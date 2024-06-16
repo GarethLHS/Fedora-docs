@@ -10,3 +10,21 @@ use instructions from https://streamdeck-linux-gui.github.io/streamdeck-linux-gu
 python -m pip install streamdeck-ui --user
 ```
 
+## Installing Zoom 
+
+Download from Zoom website
+https://zoom.us/download?os=linux
+
+```
+sudo dnf install ~/Downloads/zoom_x86_64.rpm
+```
+
+## Installing MS Teams on Linux
+
+https://computingforgeeks.com/install-microsoft-teams-on-fedora-linux/
+
+```
+sudo snap install teams-for-linux
+```
+
+
