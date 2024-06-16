@@ -13,7 +13,14 @@ run streamdeck headless
 ```
 streamdeck -n
 ```
+screenlock and kill streamdeck script
+```Add this to a script for using a streamdeck button to lock and kill app
+#!/bin/bash
 
+`dbus-send --type=method_call --dest=org.gnome.ScreenSaver /org/gnome/ScreenSaver org.gnome.ScreenSaver.Lock`
+`pkill streamdeck`
+
+```
 ## Installing Zoom 
 
 Download from Zoom website
