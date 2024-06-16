@@ -1,1 +1,12 @@
-# Fedora Docs
+# Fedora 40 Docs
+
+## Installing Spotify
+
+use instructions from https://streamdeck-linux-gui.github.io/streamdeck-linux-gui/installation/fedora/
+
+## Installing Elgato Streamdeck
+
+```
+python -m pip install streamdeck-ui --user
+```
+
