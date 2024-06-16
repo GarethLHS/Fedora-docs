@@ -26,5 +26,11 @@ https://computingforgeeks.com/install-microsoft-teams-on-fedora-linux/
 ```
 sudo snap install teams-for-linux
 ```
+## Installing Pomodoro timer for Gnome
 
+https://gnomepomodoro.org/
+
+```
+sudo dnf install gnome-pomodoro
+```
 
