@@ -9,6 +9,10 @@ use instructions from https://streamdeck-linux-gui.github.io/streamdeck-linux-gu
 ```
 python -m pip install streamdeck-ui --user
 ```
+run streamdeck headless
+```
+streamdeck -n
+```
 
 ## Installing Zoom 
 
